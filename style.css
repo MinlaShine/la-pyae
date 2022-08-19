@@ -2,8 +2,11 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
-    overflow:scroll;
+    overflow:hidden;
     font-family:Tahoma;
+}
+body{
+  overflow:scroll
 }
 body{
     width:100%;
